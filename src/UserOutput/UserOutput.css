@@ -1,0 +1,14 @@
+.UserOutput {
+  padding: 20px 10px 10px 20px;
+  text-align: center;
+  box-shadow: 0 3px 4px #ccc;
+  background-color: whitesmoke;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-top: 20px;
+  width: 30%;
+}
+
+.UserOutput .Title {
+  color: green;
+}
